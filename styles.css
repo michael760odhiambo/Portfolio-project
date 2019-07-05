@@ -1,6 +1,7 @@
 body{
   height:100%;
   margin: 0%;
+  background-color:grey;
 }
 
 .main{
@@ -14,7 +15,7 @@ body{
   font-weight: 400px;
   color: #ffffff;
 }
-.name{
+.name{font-family: 'Tangerine', cursive;
   position: absolute;
   top: 90%;
   left: 20px;
@@ -39,14 +40,20 @@ hr{
 }
 .navbar{float:left;
   background-color:black;
-  height:90px;
+  height:120px;
   width: 100%;
-  text-align: center;
-padding: 20px;
 
 }
 .navbar a {
-  color: red;
+  color: white;
+  text-align: center;
+padding: 10px;
+margin-bottom: 300px;
+text-transform: uppercase;
+text-decoration: none;
+}
+#pili{
+  transform: rotateX(30deg);
 }
 .links{
   margin-top: 80px;
@@ -63,5 +70,15 @@ footer{
   padding: 20px;
   background-color: #17223b;
   font-family: "fantasy"monospace;
-  color:#28c3d4;
+}
+#about-me{
+  text-align: center;
+  font-family: "sans-serif"serif;
+
+}
+img{
+  height:300px;
+  width:400px;
+  border-radius: 70px 70px 70px;
+  padding: 20px;
 }
