@@ -5,8 +5,9 @@
         *HTML
         *css
 # Project setup
-  *clone it from github
-  *open it in html file
+      *clone it from github
+      *open it in html file
+      *then you can work on it
   # the link
   https://michael760odhiambo.github.io/Portfolio-project/
   
