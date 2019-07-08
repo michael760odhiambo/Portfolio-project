@@ -7,6 +7,9 @@
 # Project setup
   *clone it from github
   *open it in html file
+  # the link
+  https://michael760odhiambo.github.io/Portfolio-project/
+  
 # links for active sites in github
         *www.Travel/Agencies.com
         *www.resor/web.com
