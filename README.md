@@ -4,8 +4,8 @@
 ## The technology used
         *HTML
         *css
-#Project setup
-  *git it from github
+# Project setup
+  *clone it from github
   *open it in html file
 # links for active sites in github
         *www.Travel/Agencies.com
